@@ -1,4 +1,4 @@
-# FoodMacrosApp-Showcase
+# FoodApp-Showcase
 
 ### 🚀 Status: Proiect în curs de dezvoltare (MVP)
 Acest proiect reprezintă o aplicație web dezvoltată în limbajul **C#**, utilizând arhitectura **ASP.NET Core MVC**. Scopul aplicației este de a facilita accesul utilizatorilor la informații nutriționale precise, transformând date brute din baze de date globale în informații ușor de parcurs.
