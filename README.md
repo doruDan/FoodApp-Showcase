@@ -15,10 +15,10 @@ Acest proiect reprezintă o aplicație web dezvoltată în limbajul **C#**, util
     * 🥑 **Grăsimi** și **Zahăruri**.
 
 <img width="2870" height="1646" alt="Captură de ecran 2026-05-10 180647" src="https://github.com/user-attachments/assets/170eedea-58fa-495f-b4a6-942cdec4193c" />
-„Implementarea serviciului de interogare asincronă a API-ului extern, utilizând IHttpClientFactory pentru un management eficient al resurselor.”
+Implementarea serviciului de interogare asincronă a API-ului extern, utilizând IHttpClientFactory pentru un management eficient al resurselor.
 
 <img width="2844" height="1684" alt="Captură de ecran 2026-05-10 180621" src="https://github.com/user-attachments/assets/e643c77e-3f00-4f03-b9d0-711601596ba1" />
-„Controlerul MVC care gestionează fluxul de date între logica de business și interfața utilizatorului (View), asigurând o experiență fluidă.”
+Controlerul MVC care gestionează fluxul de date între logica de business și interfața utilizatorului (View), asigurând o experiență fluidă.
 
 
 ## 🛠️ Detalii Tehnice
