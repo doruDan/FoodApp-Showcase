@@ -11,8 +11,8 @@ Acest proiect reprezintă o aplicație web dezvoltată în limbajul **C#**, util
 * **Răspuns instantaneu:** Aplicația procesează datele și afișează indicatorii esențiali:
     * 📝 **Descrierea completă** a produsului.
     * 🔥 **Numărul de calorii** (Kcal).
-    * 💪 **Proteine**, **Fibre**, **Carbohidrați**.
-    * 🥑 **Grăsimi** și **Zahăruri**.
+    * 💪 **Proteine**, **fibre**, **carbohidrați**.
+    * 🥑 **Grăsimi** și **zahăruri**.
 
 <img width="2870" height="1646" alt="Captură de ecran 2026-05-10 180647" src="https://github.com/user-attachments/assets/170eedea-58fa-495f-b4a6-942cdec4193c" />
 <img width="2850" height="1532" alt="Captură de ecran 2026-05-16 214959" src="https://github.com/user-attachments/assets/0fc3e22d-772f-4499-b240-eda1b6c6f793" />
@@ -38,6 +38,6 @@ Proiectul este într-o fază activă de expansiune. Următoarele module planific
 ---
 
 ### 👨‍💻 Despre Dezvoltator
-Sunt un elev la profilul **Umanist** (clasa a XII-a, IPLT „Academia Copiilor”) care crede în puterea interdisciplinarității. Această aplicație este rezultatul studiului autodidact în C# și dorința de a rezolva probleme practice prin tehnologie.
+Sunt un elev la profilul **umanist** (clasa a XII-a, IPLT „Academia Copiilor”) care crede în puterea interdisciplinarității. Această aplicație este rezultatul studiului autodidact în C# și dorința de a rezolva probleme practice prin tehnologie.
 
 > *Notă: Din motive de securitate, acest repository public conține documentația și arhitectura proiectului. Codul sursă complet și cheile de acces API sunt gestionate într-un mediu privat.*
